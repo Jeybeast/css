@@ -1,0 +1,28 @@
+/* .blue {
+                            width: 420px;
+                            height: 420px;
+                            background-color: blue;
+                            /*position: absolute; search for non static parent and gets offset (or)offset starts from the page start in the web*/
+
+
+/*position:fixed;it fix the postion of the content even scrooling
+                            position:sticky;it similar to fixed when it starts scrooling the image move in the normal ones get to the point act as fixed
+                            position:inherits;it inhrits the parents position either asbsolute,fixed,relative
+
+float: left;
+
+}
+.yellow {
+    width: 240px;
+    height: 240px;
+    background-color: yellow;
+    */
+
+.boot p {
+    width: 30%;
+    float: left;
+}
+
+.boot p:nth-child(4) {
+    clear: left;
+}

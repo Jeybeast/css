@@ -1,0 +1,52 @@
+body {
+    background: url("https://imgs.search.brave.com/-DK4VjSCBgWkLygsMgytwF21f9JXtwtMWlcQ0hGdGqM/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDYxMjgz/NDIuanBn");
+}
+
+.regis h3 {
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    padding: 20px 20px 10px;
+}
+
+.regis {
+    background-color: rgba(0, 0, 0, .5);
+    width: 500px;
+    margin: 300px auto;
+    font-size: large;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.regis .text {
+    display: block;
+    text-align: center;
+}
+
+.input input {
+    width: 80%;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid blue;
+    border-radius: 5px;
+    margin: 5px 0px 20px 55px;
+    box-sizing: border-box;
+}
+
+.submit {
+    padding: 20px;
+    text-align: center;
+}
+
+.radio {
+    text-align: center;
+}
+
+.radio input {
+    accent-color: green;
+    transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+}

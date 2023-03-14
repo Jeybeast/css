@@ -1,0 +1,28 @@
+.dang {
+    background-color: antiquewhite;
+}
+
+.kang {
+    background-color: aqua;
+}
+
+.sang {
+    background-color: rgba(165, 42, 42, 0.788);
+}
+
+@media all and (min-width:801px) {
+    .bang p {
+        width: 30%;
+        float: left;
+        padding: 10px;
+        position: relative;
+        top: 300px;
+    }
+}
+
+.rac {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    background: linear-gradient(90deg, violet 14%, indigo, blue, green, orange, red);
+}
